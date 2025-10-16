@@ -1,0 +1,13 @@
+## .NET ##
+**/bin/
+**/obj/
+**/.vs/
+**/*.user
+**/*.csproj.user
+
+## Logs ##
+*.log
+*.tmp
+
+## Dependencies ##
+**/node_modules/

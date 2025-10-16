@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\migrations\\20251016162523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\migrations\\20251016162523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\dtos\\pagamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\dtos\\pagamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\dtos\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\dtos\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\psicoagendaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\psicoagendaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\dtos\\inadimplentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\dtos\\inadimplentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\data\\psicoagendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\data\\psicoagendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\services\\consultabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\services\\consultabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\dtos\\relatoriodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\dtos\\relatoriodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\models\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\models\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|c:\\users\\usuario\\source\\repos\\psicoagendaapi\\psicoagendaapi\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733D935A-6F06-4DF8-8036-257A49EBCAE0}|PsicoAgendaApi\\PsicoAgendaApi.csproj|solutionrelative:psicoagendaapi\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\ba0de74c-13e1-4396-a602-239863269a1c\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251016162523_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Migrations\\20251016162523_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Migrations\\20251016162523_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Migrations\\20251016162523_InitialCreate.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Migrations\\20251016162523_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:25:24.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\PagamentosController.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Controllers\\PagamentosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\PagamentosController.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Controllers\\PagamentosController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:57:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagamentoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\PagamentoUpdateDto.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\DTOs\\PagamentoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\PagamentoUpdateDto.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\DTOs\\PagamentoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:47:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Relatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Relatorio.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\Relatorio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Relatorio.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\Relatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:35:49.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PsicoAgendaApi.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\PsicoAgendaApi.http",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\PsicoAgendaApi.http",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\PsicoAgendaApi.http",
+              "RelativeToolTip": "PsicoAgendaApi\\PsicoAgendaApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-16T15:28:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:47:59.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InadimplenteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\InadimplenteDto.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\DTOs\\InadimplenteDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\InadimplenteDto.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\DTOs\\InadimplenteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:21:39.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagamentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\PagamentoDto.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\DTOs\\PagamentoDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\PagamentoDto.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\DTOs\\PagamentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:43:23.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\ConsultaDto.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\DTOs\\ConsultaDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\ConsultaDto.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\DTOs\\ConsultaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:46:44.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\appsettings.json",
+              "RelativeToolTip": "PsicoAgendaApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T19:03:34.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Program.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Program.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv2AAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:04:06.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Pagamento.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Pagamento.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\Pagamento.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:02:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Consulta.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\Consulta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:01:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\Paciente.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:01:28.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:48:06.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PsicoAgendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Data\\PsicoAgendaContext.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Data\\PsicoAgendaContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Data\\PsicoAgendaContext.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Data\\PsicoAgendaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:41:43.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultaBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Services\\ConsultaBackgroundService.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Services\\ConsultaBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Services\\ConsultaBackgroundService.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Services\\ConsultaBackgroundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:09:36.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WhatsAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Services\\WhatsAppService.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Services\\WhatsAppService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Services\\WhatsAppService.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Services\\WhatsAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:08:57.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:48:09.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RelatorioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\RelatorioDto.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\DTOs\\RelatorioDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\RelatorioDto.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\DTOs\\RelatorioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:47:47.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:44:13.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PacienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\PacienteDto.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Models\\DTOs\\PacienteDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Models\\DTOs\\PacienteDto.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Models\\DTOs\\PacienteDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:45:56.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RelatoriosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\RelatoriosController.cs",
+              "RelativeDocumentMoniker": "PsicoAgendaApi\\Controllers\\RelatoriosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PsicoAgendaApi\\PsicoAgendaApi\\Controllers\\RelatoriosController.cs",
+              "RelativeToolTip": "PsicoAgendaApi\\Controllers\\RelatoriosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:22:16.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\ba0de74c-13e1-4396-a602-239863269a1c\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ba0de74c-13e1-4396-a602-239863269a1c\\secrets.json",
+              "ToolTip": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\ba0de74c-13e1-4396-a602-239863269a1c\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ba0de74c-13e1-4396-a602-239863269a1c\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T19:27:15.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

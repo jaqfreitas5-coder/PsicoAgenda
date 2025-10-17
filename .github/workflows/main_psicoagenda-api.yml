@@ -25,10 +25,12 @@ jobs:
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
+        working-directory: PsicoAgendaApi/PsicoAgendaApi
+
 
       - name: dotnet publish
         run: dotnet publish -c Release -o "${{env.DOTNET_ROOT}}/myapp"
-
+        working-directory: PsicoAgendaApi/PsicoAgendaApi
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
@@ -62,4 +64,5 @@ jobs:
           app-name: 'psicoagenda-api'
           slot-name: 'Production'
           package: .
+
           
